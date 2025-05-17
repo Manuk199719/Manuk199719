@@ -13,8 +13,8 @@ Currently focused on:
 
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Tools:** Excel, Jupyter Notebook, PowerBI, GitHub, GenAI, IBM Cognos, Looker
-**Soft Skills:** Analytical thinking, Attention to detail, problem solving, Business Acumen
+**Tools:** Excel, Jupyter Notebook, PowerBI, GitHub, GenAI, IBM Cognos, Looker 
+**Soft Skills:** Analytical thinking, Attention to detail, Problem solving, Business Acumen
 
 ---
 
@@ -30,7 +30,7 @@ Currently focused on:
 
 ## Let's Connect
 
-- **LinkedIn:** [(https://www.linkedin.com/in/manu-kumari-749155221/)]  
+- **LinkedIn:** https://www.linkedin.com/in/manu-kumari-749155221/ 
 - **Email:** manu97kumari@gmail.com 
 - **Portfolio Site (Coming Soon)**
 
