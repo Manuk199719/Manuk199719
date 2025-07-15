@@ -13,7 +13,7 @@ Currently focused on:
 
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Tools:** Excel, Jupyter Notebook, PowerBI,Tableau, GitHub, GenAI, IBM Cognos, Looker
+**Tools:** Excel, Jupyter Notebook, PowerBI, Tableau, GitHub, GenAI, IBM Cognos, Looker
 
 **Soft Skills:** Analytical thinking, Attention to detail, Problem solving, Business Acumen
 
