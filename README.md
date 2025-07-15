@@ -1,6 +1,6 @@
 # About Me
 
-I'm Manu — an aspiring Data Analyst with a strong focus on turning raw data into clear, actionable insights. With a background in self-driven learning, I'm currently developing projects that demonstrate core analytical skills, including data cleaning, manipulating wrangling, visualization, and storytelling using Python, Pandas, SQL, PowerBI and Excel.
+I'm Manu — an aspiring Data Analyst with a strong focus on turning raw data into clear, actionable insights. With a background in self-driven learning, I'm currently developing projects that demonstrate core analytical skills, including data cleaning, manipulating wrangling, visualization, and storytelling using Python, Pandas, SQL, PowerBI, Tableau and Excel.
 
 Currently focused on:
 - Building a portfolio of beginner-to-intermediate data analysis projects
@@ -13,7 +13,7 @@ Currently focused on:
 
 **Languages:** Python, SQL  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Tools:** Excel, Jupyter Notebook, PowerBI, GitHub, GenAI, IBM Cognos, Looker
+**Tools:** Excel, Jupyter Notebook, PowerBI,Tableau, GitHub, GenAI, IBM Cognos, Looker
 
 **Soft Skills:** Analytical thinking, Attention to detail, Problem solving, Business Acumen
 
